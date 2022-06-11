@@ -10,6 +10,7 @@ void main()
     //woody >>>
     int test1 = 0;
     int test2 = 1;
+    int test3 = 2;
     //woody <<<
 
     for(count=0;count<5;count++)
@@ -22,6 +23,7 @@ void main()
     //woody >>>
     printf("test1 = %d: ", test1);
     printf("test2 = %d: ", test2);
+    printf("test3 = %d: ", test3);
     //woody <<<
 
     for(count=0;count<5;count++)
